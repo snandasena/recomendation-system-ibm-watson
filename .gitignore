@@ -137,3 +137,5 @@ include/
 # Pycharm config
 .idea/
 
+# pip chepoins json
+pip-selfcheck.json
