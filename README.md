@@ -8,11 +8,11 @@
 ##### Step 01: Clone the project to your workplace
 If you are using a ssh key for GitHub, please use flowing git command to clone the project.
 ```
-git clone git@github.com:snandasena/stackoverflow-job-sat-stat-analyisis.git
+git clone git@github.com:snandasena/recomendation-system-ibm-watson.git
 ``` 
 Otherwise use HTTPS git method to clone the git repositories.  
 ```
-git clone https://github.com/snandasena/stackoverflow-job-sat-stat-analyisis.git
+git clone https://github.com:snandasena/recomendation-system-ibm-watson.git
 ```  
 ##### Step 02: Create a Python3.6(Python3) virtual environment inside the project root directory
 Here I assumed you are in the project root directory and here **"."** is represent the current directory.  
@@ -30,7 +30,5 @@ python -m pip install -r requirements.txt
 ```
 ##### Step 04: Running Jupyter notebook with Python virtual environments
 ```
-jupyter notebook Stackoverflow_Job_Satisfaction_Statistical_Analysis.ipynb
+jupyter notebook Recommendations_with_IBM.ipynb
 ```
-
-[Link to Medium Blog](https://medium.com/@sajithnandasena/how-to-keep-employees-happy-in-the-it-industry-dda54249dbcc)
